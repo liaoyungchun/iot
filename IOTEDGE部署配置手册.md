@@ -117,9 +117,6 @@ title: IOT EDGE部署配置手册
     * 集成frpc，以备远程调试使用
 
 
-
-
-
-
 <hr />
-工业和信息化部备案管理系统网站 <a href="http://beian.miit.gov.cn/" target="_blank">辽ICP备18017601号-1</a>
+工业和信息化部备案管理系统网站 <a href="http://beian.miit.gov.cn/" target="_blank">辽ICP备18017601号-1</a> 
+
