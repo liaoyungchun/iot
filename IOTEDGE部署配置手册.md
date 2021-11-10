@@ -115,6 +115,8 @@ title: IOT EDGE部署配置手册
     * 升级docker基础image：gitis/iot:1.1，增加秤采集需要的组件
     * 集成docker-compose，支持德国容器的启动方式
     * 集成frpc，以备远程调试使用
+  * v5.4
+    * 升级nvidia显卡驱动为470.82，适配GTX3060
 
 
 <hr />
